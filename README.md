@@ -27,9 +27,7 @@ This project integrates computer vision, perspective correction, and Bluetooth c
 
 ## Demo
 
-Video and example of code:
-
-
+Download the MOV file and watch for a full demo on the code and how it looks/works
 
 ---
 
