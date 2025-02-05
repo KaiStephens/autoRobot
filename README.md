@@ -1,6 +1,6 @@
 # Robot Navigator with Computer Vision and Bluetooth Control
 
-![Project Screenshot](autoRobot/IMG_2512.jpeg)
+![Project Screenshot](/IMG_2512.jpeg)
 
 This project integrates computer vision, perspective correction, and Bluetooth communication to enable a robot to autonomously navigate toward a target. It uses a live camera feed to process images, detect colored markers that represent the robot’s front and back, and calculate the required movement direction. The computed commands are then transmitted via Bluetooth to an ESP32-powered motor controller.
 
